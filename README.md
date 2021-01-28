@@ -1,10 +1,4 @@
-This Project was bootstrapt with Create React App
-# chat-app
-Web chat app developed mainly by React
-
-Below you will find some information on how to perform common tasks.
-
-his project was bootstrapped with Create React App.
+This project was bootstrapped with Create React App.
 
 Available Scripts
 In the project directory, you can run:
@@ -61,20 +55,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 npm run build fails to minify
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-About
-No description, website, or topics provided.
-Resources
- Readme
-Releases
-No releases published
-Packages
-No packages published
-Languages
-JavaScript
-85.3%
- 
-CSS
-9.2%
- 
-HTML
-5.5%

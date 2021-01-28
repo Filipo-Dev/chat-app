@@ -1,7 +1,7 @@
 # chat-app
 Web chat app developed mainly by React
 
-his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
